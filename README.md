@@ -67,10 +67,30 @@ Step 6: Compare and Identify the Best Technique
 
 6.3 Record the final observations.
 ## Result
-The experiment demonstrates how different prompting techniques can influence the quality of AI-generated text summaries. Zero-shot prompting provides quick summaries, while few-shot prompting helps guide the output format. Chain-of-thought-style instructions can encourage organized results, and role-based prompting helps tailor summaries to undergraduate students.
+## RESULT
 
-The effectiveness of each technique may vary across ChatGPT, Gemini, Claude, and Microsoft Copilot. The best combination should be selected based on accuracy, coherence, simplicity, speed, and user experience.
+Thus, the experiment "Cross-Platform Prompting – Evaluating Diverse Techniques in AI-Powered Text Summarization" was successfully performed by using four different prompting techniques: Zero-Shot Prompting, Few-Shot Prompting, Chain-of-Thought Prompting and Role-Based Prompting across four AI platforms: ChatGPT, Google Gemini, Claude and Microsoft Copilot.
 
+The technical article on "The Basics of Blockchain Technology" was selected and provided as input to all four AI platforms. Each platform generated summaries using the selected prompting techniques. The generated outputs were then compared and evaluated based on five important parameters: accuracy, coherence, simplicity, response speed and overall user experience.
 
+During the experiment, the following observations were made:
+
+1\. Zero-Shot Prompting: It generated summaries directly without requiring examples. It was useful for obtaining quick and basic summaries of technical content.
+
+2\. Few-Shot Prompting: It generated summaries by following the examples provided in the prompt. It helped maintain a consistent writing style, format and level of simplicity.
+
+3\. Chain-of-Thought Prompting: It encouraged the AI to identify important concepts, organize the information and produce a logically structured summary. It was useful for summarizing technical topics containing multiple concepts.
+
+4\. Role-Based Prompting: It assigned the AI the role of an educational content writer. It generated simple, clear and student-friendly summaries that were easy for undergraduate students to understand.
+
+The experiment also demonstrated that different AI platforms may produce different results even when the same article and prompting technique are used. Each platform has its own response style, language quality, processing speed and user experience.
+
+From the comparative analysis, it was observed that few-shot prompting helped maintain consistency, zero-shot prompting was suitable for quick responses, chain-of-thought-style prompting helped organize information, and role-based prompting was particularly useful for educational summarization.
+
+Among the four prompting techniques, Role-Based Prompting was identified as the most suitable technique for the selected educational scenario, because it focused on the target audience and presented technical information in simple and understandable language.
+
+The experiment helped in understanding the importance of prompt engineering in improving the quality of AI-generated content. It also provided practical knowledge about using multiple AI platforms, designing effective prompts, comparing generated responses and selecting suitable prompting techniques for specific tasks.
+
+Finally, the experiment concluded that effective prompt design plays an important role in obtaining accurate, coherent, simple and useful summaries from Generative AI systems.
 
 
